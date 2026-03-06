@@ -92,5 +92,27 @@
     "usesFormmask": false,
     "file": "Age of Empires The Rise of Rome/Tango Alpha Bravo.mmrs",
     "preview": "Age of Empires The Rise of Rome/Tango Alpha Bravo.mp3"
+  },
+  {
+    "uuid": "2f82e4d0-aed5-4245-b3ff-7b0c96933767",
+    "creationDate": "2026-03-06T03:17:04.481Z",
+    "game": "Banjo-Kazooie",
+    "song": "Lose Life",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Lose Life.mmrs",
+    "preview": "Banjo-Kazooie/Lose Life.mp3"
   }
 ]
