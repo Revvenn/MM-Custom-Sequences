@@ -48,5 +48,161 @@
     "usesFormmask": false,
     "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered.mmrs",
     "preview": "https://www.youtube.com/watch?v=t8O0I-3t6Y8"
+  },
+  {
+    "uuid": "332b3ecd-7f37-4e95-a8b3-20614af8f104",
+    "creationDate": "2026-03-06T02:52:25.502Z",
+    "game": "Age of Empires",
+    "song": "Open",
+    "composers": [
+      "Stephen Rippy"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Age of Empires/Open.mmrs",
+    "preview": "Age of Empires/Open.mp3"
+  },
+  {
+    "uuid": "646802ca-ca65-4a00-8997-cb0673bae962",
+    "creationDate": "2026-03-06T03:13:17.784Z",
+    "game": "Age of Empires The Rise of Rome",
+    "song": "Tango Alpha Bravo",
+    "composers": [
+      "Stephen Rippy"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Age of Empires The Rise of Rome/Tango Alpha Bravo.mmrs",
+    "preview": "Age of Empires The Rise of Rome/Tango Alpha Bravo.mp3"
+  },
+  {
+    "uuid": "2f82e4d0-aed5-4245-b3ff-7b0c96933767",
+    "creationDate": "2026-03-06T03:17:04.481Z",
+    "game": "Banjo-Kazooie",
+    "song": "Lose Life",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Lose Life.mmrs",
+    "preview": "Banjo-Kazooie/Lose Life.mp3"
+  },
+  {
+    "uuid": "bda252a3-01ca-4e15-8df9-f77586d3355f",
+    "creationDate": "2026-03-06T03:22:23.325Z",
+    "game": "Banjo-Kazooie",
+    "song": "Main Title",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Main Title.mmrs",
+    "preview": "Banjo-Kazooie/Main Title.mp3"
+  },
+  {
+    "uuid": "d10be2b7-9570-4c1b-8348-ef3d4ae22087",
+    "creationDate": "2026-03-06T03:23:32.923Z",
+    "game": "Banjo-Kazooie",
+    "song": "Snacker Attack",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Snacker Attack.mmrs",
+    "preview": "Banjo-Kazooie/Snacker Attack.mp3"
+  },
+  {
+    "uuid": "e28fa281-6d21-4535-84d5-09a02aba290e",
+    "creationDate": "2026-03-06T03:24:53.102Z",
+    "game": "Banjo-Kazooie",
+    "song": "Top of the Lair",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Top of the Lair.mmrs",
+    "preview": "Banjo-Kazooie/Top of the Lair.mp3"
+  },
+  {
+    "uuid": "5a5b829b-a3d7-4d70-98e3-7f29675f85d5",
+    "creationDate": "2026-03-06T03:27:47.272Z",
+    "game": "Banjo-Tooie",
+    "song": "Cheato",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "3",
+      "6",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Cheato.mmrs",
+    "preview": "Banjo-Tooie/Cheato.mp3"
   }
 ]
