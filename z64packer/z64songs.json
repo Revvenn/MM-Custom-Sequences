@@ -725,5 +725,29 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Mad Monster Mansion.mmrs",
     "preview": "Banjo-Kazooie/Mad Monster Mansion.mp3"
+  },
+  {
+    "uuid": "c70f0234-364e-4bb3-9bc4-39828195af1e",
+    "creationDate": "2026-03-06T17:36:05.474Z",
+    "game": "Banjo-Kazooie",
+    "song": "Rusty Bucket Bay",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Kazooie/Rusty Bucket Bay.mmrs",
+    "preview": "Banjo-Kazooie/Rusty Bucket Bay.mp3"
   }
 ]
