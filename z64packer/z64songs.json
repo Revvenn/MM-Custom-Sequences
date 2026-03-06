@@ -462,5 +462,29 @@
     "usesFormmask": false,
     "file": "Super Smash Bros. Melee/Hyrule Temple.mmrs",
     "preview": "Super Smash Bros. Melee/Hyrule Temple.mp3"
+  },
+  {
+    "uuid": "edee24c4-8f71-4774-8178-43c0897d1d8c",
+    "creationDate": "2026-03-06T03:56:09.062Z",
+    "game": "WarioWare: Touched!",
+    "song": "Ashley's Song",
+    "composers": [
+      "Masanobu Matsunaga",
+      "Yasuhisa Baba",
+      "Masaru Tajima"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "WarioWare Touched!/Ashley's Song.mmrs",
+    "preview": "WarioWare Touched!/Ashley's Song.mp3"
   }
 ]
