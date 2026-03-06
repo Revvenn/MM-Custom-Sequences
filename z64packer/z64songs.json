@@ -490,8 +490,8 @@
   {
     "uuid": "016a055e-cc57-4c6d-8f43-9e88e2b5e3e8",
     "creationDate": "2026-03-06T04:00:10.290Z",
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Wild Pokémon",
+    "game": "PokÃ©mon Red, Blue & Yellow",
+    "song": "Battle! Wild PokÃ©mon",
     "composers": [
       "Junichi Masuda"
     ],
@@ -507,13 +507,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mp3"
+    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mp3"
   },
   {
     "uuid": "8418e20a-9c44-45db-9033-49e6a7c11278",
     "creationDate": "2026-03-06T04:01:38.886Z",
-    "game": "Pok�mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
     "composers": [
       "Junichi Masuda"
@@ -530,7 +530,30 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok�mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
-    "preview": "Pok�mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+  },
+  {
+    "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
+    "creationDate": "2026-03-06T04:02:53.113Z",
+    "game": "Pok�mon Red, Blue & Yellow",
+    "song": "Battle! Vs Gym Leader",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pok�mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "Pok�mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
   }
 ]
