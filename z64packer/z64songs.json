@@ -593,6 +593,12 @@
   {
     "game": "Pokémon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
     "type": "bgm",
     "categories": [
       "4",
@@ -606,20 +612,13 @@
   },
   {
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Team Rocket Hideout",
-    "type": "bgm",
-    "categories": [
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "9618baab-48b9-40f3-9972-6ea58c07d2f3",
-    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Tough Guy)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
     "type": "bgm",
     "categories": [
       "103"
@@ -629,59 +628,5 @@
     "usesFormmask": false,
     "uuid": "be458c64-6c49-42ba-848e-8beaea98bdef",
     "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Wild Pokémon",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "78677459-93cb-4da4-ae65-f79c31a55192",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Vs Gym Leader",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "c96ab562-c469-4a72-9433-40f84f48e0c2",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "A Trainer Appears! (Girl)",
-    "type": "bgm",
-    "categories": [
-      "103"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "9a27c4fd-5b2a-4f18-a7b4-51acab5c079a",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "A Trainer Appears! (Boy)",
-    "type": "bgm",
-    "categories": [
-      "103"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "c3272eb3-8308-4254-86d2-807e0e5d60dd",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs"
   }
 ]
