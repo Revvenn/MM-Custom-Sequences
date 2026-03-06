@@ -136,5 +136,27 @@
     "usesFormmask": false,
     "file": "Banjo-Kazooie/Main Title.mmrs",
     "preview": "Banjo-Kazooie/Main Title.mp3"
+  },
+  {
+    "uuid": "d10be2b7-9570-4c1b-8348-ef3d4ae22087",
+    "creationDate": "2026-03-06T03:23:32.923Z",
+    "game": "Banjo-Kazooie",
+    "song": "Snacker Attack",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Snacker Attack.mmrs",
+    "preview": "Banjo-Kazooie/Snacker Attack.mp3"
   }
 ]
