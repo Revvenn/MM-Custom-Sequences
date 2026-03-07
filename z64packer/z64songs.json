@@ -1312,5 +1312,28 @@
     "usesFormmask": false,
     "file": "NieR Replicant/The Ultimate Weapon.mmrs",
     "preview": "NieR Replicant/The Ultimate Weapon.ogg"
+  },
+  {
+    "uuid": "533892cb-ab8d-4c0d-b30e-ac9d4030d16a",
+    "creationDate": "2026-03-07T02:49:40.083Z",
+    "game": "Monster Hunter 4 Ultimate",
+    "song": "Proof of a Hero",
+    "composers": [
+      "Kouda Masato"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "11B",
+      "169"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Monster Hunter 4 Ultimate/Proof of a Hero.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-H5IIx7qmyo"
   }
 ]
