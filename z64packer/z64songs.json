@@ -1361,5 +1361,28 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Catacombs.mmrs",
     "preview": "https://www.youtube.com/watch?v=ua7hFlrfQdw"
+  },
+  {
+    "uuid": "8437e211-ef36-47e8-980e-86ae706be060",
+    "creationDate": "2026-03-07T02:53:24.128Z",
+    "game": "Ultimate Trial",
+    "song": "Child Trial",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Child Trial.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aLYT1U-iLCE"
   }
 ]
