@@ -1411,5 +1411,27 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Dance of the Deku King.mmrs",
     "preview": "https://www.youtube.com/watch?v=ODKLhPh0lTw"
+  },
+  {
+    "uuid": "b14bb5cf-1141-4a89-8019-3aefab573770",
+    "creationDate": "2026-03-07T02:55:43.983Z",
+    "game": "Ultimate Trial",
+    "song": "Grimstalker",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Grimstalker.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oT89nOdi9i4"
   }
 ]
