@@ -1096,5 +1096,33 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Link's Awakening (2019)/Tal Tal Heights - Heroic.mmrs",
     "preview": "https://www.youtube.com/watch?v=wQhrJA0uUpw"
+  },
+  {
+    "uuid": "5ac444b9-c6e5-4639-8c18-c0c079909caf",
+    "creationDate": "2026-03-07T02:16:40.331Z",
+    "game": "Nier: Automata",
+    "song": "Copied City",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nier Automata/Copied City.mmrs",
+    "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
   }
 ]
