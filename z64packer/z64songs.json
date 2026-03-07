@@ -1124,5 +1124,34 @@
     "usesFormmask": false,
     "file": "Nier Automata/Copied City.mmrs",
     "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
+  },
+  {
+    "uuid": "a7b317aa-a568-43b0-a053-dd9975b08165",
+    "creationDate": "2026-03-07T02:17:43.732Z",
+    "game": "Nier: Automata",
+    "song": "Emil's Shop",
+    "composers": [
+      "Keiichi Okabe",
+      "Keigo Hoashi",
+      "Kuniyuki Takahashi",
+      "Kakeru Ishihama"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nier Automata/Emil's Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
   }
 ]
