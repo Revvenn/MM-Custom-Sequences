@@ -973,5 +973,27 @@
     "usesFormmask": false,
     "file": "Castlevania/Wicked Child.mmrs",
     "preview": "Castlevania/Wicked Child.ogg"
+  },
+  {
+    "uuid": "1d3ebe40-cd01-47df-a2e9-f86f420c1b01",
+    "creationDate": "2026-03-07T02:03:55.338Z",
+    "game": "Suikoden II",
+    "song": "Gothic Neclord",
+    "composers": [
+      "Miki Higashino"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Suikoden II/Gothic Neclord.mmrs",
+    "preview": "Suikoden II/Gothic Neclord.mp3"
   }
 ]
