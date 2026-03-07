@@ -1153,5 +1153,35 @@
     "usesFormmask": false,
     "file": "Nier Automata/Emil's Shop.mmrs",
     "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
+  },
+  {
+    "uuid": "b6b077ff-35d3-4303-8e1e-c177e1dc3421",
+    "creationDate": "2026-03-07T02:21:24.066Z",
+    "game": "NieR Replicant",
+    "song": "Kaine",
+    "composers": [
+      "Keiichi Okabe",
+      "Keigo Hoashi",
+      "Kakeru Ishihama",
+      "Takafumi Nishimura"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Replicant/Kaine.mmrs",
+    "preview": "NieR Replicant/Kaine.ogg"
   }
 ]
