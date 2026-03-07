@@ -1210,5 +1210,29 @@
     "usesFormmask": false,
     "file": "NieR Replicant/Song of the Ancients - Devola.mmrs",
     "preview": "https://www.youtube.com/watch?v=58hel-U09QI"
+  },
+  {
+    "uuid": "376f1eae-72ce-447b-995e-272bd2485cd6",
+    "creationDate": "2026-03-07T02:24:54.031Z",
+    "game": "Nier: Automata",
+    "song": "Sound of the End - Quiet",
+    "composers": [
+      "Keigo Hoashi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nier Automata/Sound of the End - Quiet.mmrs",
+    "preview": "Nier Automata/Sound of the End - Quiet.mp3"
   }
 ]
