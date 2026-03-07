@@ -1804,5 +1804,31 @@
     "usesFormmask": false,
     "file": "Mario Party 1/Wario's Battle Canyon.mmrs",
     "preview": "Mario Party 1/Wario's Battle Canyon.ogg"
+  },
+  {
+    "uuid": "30827441-8416-4377-a1ce-e88493df7c63",
+    "creationDate": "2026-03-07T16:40:14.632Z",
+    "game": "Mario Party DS",
+    "song": "Bowser's Pinball Machine",
+    "composers": [
+      "Hironobu Yahata and Shinya Ohtouge"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Party DS/Bowser's Pinball Machine.mmrs",
+    "preview": "Mario Party DS/Bowser's Pinball Machine.ogg"
   }
 ]
