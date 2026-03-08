@@ -1990,5 +1990,28 @@
     "uuid": "dcfb1296-1053-43cb-9ecd-d0a6ce4e20a4",
     "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
     "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
+  },
+  {
+    "uuid": "1fdc955c-6e45-47ec-93d3-1b066f3ca0dd",
+    "creationDate": "2026-03-08T03:12:46.360Z",
+    "game": "Pokémon Snap",
+    "song": "Beach",
+    "composers": [
+      "Ikuko Mimori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Snap/Beach.mmrs",
+    "preview": "Pokémon Snap/Beach.mp3"
   }
 ]
