@@ -2516,7 +2516,9 @@
     "game": "Phoenix Wright Ace Attorney"
   },
   {
-    "game": "Touhou Kishinjō ~ Double Dealing Character"
+    "game": "Touhou Kishinjō ~ Double Dealing Character",
+    "series": "Touhou Series",
+    "short_name": "Touhou 14"
   },
   {
     "game": "Age of Empires The Rise of Rome"
