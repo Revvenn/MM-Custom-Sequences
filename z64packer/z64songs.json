@@ -488,28 +488,6 @@
     "preview": "WarioWare Touched!/Ashley's Song.mp3"
   },
   {
-    "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
-    "creationDate": "2026-03-06T04:08:59.944Z",
-    "game": "PokÃ©mon Red, Blue & Yellow",
-    "song": "Team Rocket Hideout",
-    "composers": [
-      "Junichi Masuda"
-    ],
-    "converters": [
-      "ZoeyZolotova"
-    ],
-    "isDMCACritical": false,
-    "type": "bgm",
-    "categories": [
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
-    "preview": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mp3"
-  },
-  {
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
     "creationDate": "2026-03-06T16:37:13.543Z",
     "game": "Banjo-Kazooie",
@@ -1420,8 +1398,20 @@
     "preview": "Castlevania/Heart of Fire.ogg"
   },
   {
-    "game": "Nier Automata",
+    "uuid": "a7b317aa-a568-43b0-a053-dd9975b08165",
+    "creationDate": "2026-03-07T02:17:43.732Z",
+    "game": "NieR: Automata",
     "song": "Emil's Shop",
+    "composers": [
+      "Keiichi Okabe",
+      "Keigo Hoashi",
+      "Kuniyuki Takahashi",
+      "Kakeru Ishihama"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
     "type": "bgm",
     "categories": [
       "1",
@@ -1433,13 +1423,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "uuid": "007cfa54-41e2-4cb6-af07-12dcdc7b4d07",
-    "file": "Nier Automata/Emil's Shop.mmrs"
+    "file": "NieR Automata/Emil's Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
   },
   {
     "uuid": "fd11423a-d04a-4890-b44d-ac8b3ae3a77b",
     "creationDate": "2026-03-07T15:18:46.406Z",
-    "game": "Dragon Quest 4",
+    "game": "Dragon Quest IV: Chapters of the Chosen",
     "song": "Gypsy Dance",
     "composers": [
       "Koichi Sugiyama"
@@ -1459,13 +1449,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dragon Quest 4/Gypsy Dance.mmrs",
-    "preview": "Dragon Quest 4/Gypsy Dance.ogg"
+    "file": "Dragon Quest IV Chapters of the Chosen/Gypsy Dance.mmrs",
+    "preview": "Dragon Quest IV Chapters of the Chosen/Gypsy Dance.ogg"
   },
   {
     "uuid": "9f6469c8-5ee9-4169-8057-9c8cb8eaf1be",
     "creationDate": "2026-03-07T15:28:21.688Z",
-    "game": "Dragon Quest 9",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "song": "Observatory",
     "composers": [
       "Koichi Sugiyama"
@@ -1484,13 +1474,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dragon Quest 9/Observatory.mmrs",
-    "preview": "Dragon Quest 9/Observatory.ogg"
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Observatory.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Observatory.ogg"
   },
   {
     "uuid": "be6977e0-0b4b-4cc5-975a-76ad02555168",
     "creationDate": "2026-03-07T16:01:26.884Z",
-    "game": "Dragon Quest 9",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "song": "Alchemy Pot",
     "composers": [
       "Koichi Sugiyama"
@@ -1509,13 +1499,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dragon Quest 9/Alchemy Pot.mmrs",
-    "preview": "Dragon Quest 9/Alchemy Pot.ogg"
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Alchemy Pot.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Alchemy Pot.ogg"
   },
   {
     "uuid": "57048261-fc39-4125-9570-6eb73c15e3cb",
     "creationDate": "2026-03-07T16:02:16.483Z",
-    "game": "Dragon Quest 9",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "song": "Title Screen",
     "composers": [
       "Koichi Sugiyama"
@@ -1531,13 +1521,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dragon Quest 9/Title Screen.mmrs",
-    "preview": "Dragon Quest 9/Title Screen.ogg"
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Title Screen.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Title Screen.ogg"
   },
   {
     "uuid": "9f7815dd-7ac8-4172-a656-8c0ddb32d516",
     "creationDate": "2026-03-07T16:03:04.576Z",
-    "game": "Dragon Quest 9",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "song": "Overworld",
     "composers": [
       "Koichi Sugiyama"
@@ -1555,8 +1545,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dragon Quest 9/Overworld.mmrs",
-    "preview": "Dragon Quest 9/Overworld.ogg"
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Overworld.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Overworld.ogg"
   },
   {
     "uuid": "295d65c9-f32f-4b59-8ca7-ebb952d65f8d",
@@ -1580,8 +1570,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario and Luigi Superstar Saga/Popple Battle Theme.mmrs",
-    "preview": "Mario and Luigi Superstar Saga/Popple Battle Theme.ogg"
+    "file": "Mario & Luigi Superstar Saga/Popple Battle Theme.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Popple Battle Theme.ogg"
   },
   {
     "uuid": "b1a176f7-e2ef-4ddf-aa2d-1a3ef0b824e9",
@@ -1604,8 +1594,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario and Luigi Superstar Saga/Chucklehuck Woods.mmrs",
-    "preview": "Mario and Luigi Superstar Saga/Chucklehuck Woods.ogg"
+    "file": "Mario & Luigi Superstar Saga/Chucklehuck Woods.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Chucklehuck Woods.ogg"
   },
   {
     "uuid": "35c94da2-4dfd-458e-b8c4-0d4879e49797",
@@ -1628,8 +1618,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario and Luigi Superstar Saga/Boss Theme.mmrs",
-    "preview": "Mario and Luigi Superstar Saga/Boss Theme.ogg"
+    "file": "Mario & Luigi Superstar Saga/Boss Theme.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Boss Theme.ogg"
   },
   {
     "uuid": "feea9ade-c59d-4c8a-b33d-b9bc62973a13",
@@ -1653,8 +1643,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario Party 1/Wario's Battle Canyon.mmrs",
-    "preview": "Mario Party 1/Wario's Battle Canyon.ogg"
+    "file": "Mario Party/Wario's Battle Canyon.mmrs",
+    "preview": "Mario Party/Wario's Battle Canyon.ogg"
   },
   {
     "uuid": "30827441-8416-4377-a1ce-e88493df7c63",
@@ -1783,113 +1773,6 @@
     "preview": "Sonic Adventure 2/Pumpkin Hill.ogg"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Vs Trainer",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "7db666ae-22fc-4cb4-b5eb-453ea1724942",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Team Rocket Hideout",
-    "type": "bgm",
-    "categories": [
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "5cc95d58-550b-491b-b383-fc8964282b09",
-    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "A Trainer Appears! (Tough Guy)",
-    "type": "bgm",
-    "categories": [
-      "103"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "03beaa43-7546-47e2-a993-2ce3d6f58117",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Wild Pokémon",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "373ec0c4-d43d-4b1c-8b93-59939e745e4d",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Battle! Vs Gym Leader",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "1d5e07af-56cc-4dde-84d6-b241288f49a8",
-    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "Route 1",
-    "type": "bgm",
-    "categories": [
-      "0"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "4f010896-2db8-4bd8-b6f4-4430f44a51d1",
-    "file": "Pokémon Red, Blue & Yellow/Route 1.mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "A Trainer Appears! (Girl)",
-    "type": "bgm",
-    "categories": [
-      "103"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "bc889b85-43da-4d7c-9c40-cb7d2ea088ff",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs"
-  },
-  {
-    "game": "Pokémon Red, Blue & Yellow",
-    "song": "A Trainer Appears! (Boy)",
-    "type": "bgm",
-    "categories": [
-      "103"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "54306dd1-7b47-4aad-88e6-542cfc9381d7",
-    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs"
-  },
-  {
     "uuid": "651b599a-3421-42bb-bec2-c04be3b7088a",
     "creationDate": "2026-03-07T17:09:23.098Z",
     "game": "Super Metroid",
@@ -1936,5 +1819,176 @@
     "usesFormmask": false,
     "file": "Super Metroid/Brinstar Overgrowth.mmrs",
     "preview": "Super Metroid/Brinstar Overgrowth.ogg"
+  },
+  {
+    "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
+    "creationDate": "2026-03-06T04:02:53.113Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Vs Gym Leader",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Wild Pokémon",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "0494c0f1-616d-4177-aa94-7bbc0d7845dd",
+    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mp3"
+  },
+  {
+    "uuid": "411aebac-754b-43e3-8d9b-9c1f0ff8370f",
+    "creationDate": "2026-03-06T04:06:36.242Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Girl)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
+  },
+  {
+    "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
+    "creationDate": "2026-03-06T04:08:59.944Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Team Rocket Hideout",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mp3"
+  },
+  {
+    "uuid": "0adb2d1b-2349-41ff-80d8-d330409639be",
+    "creationDate": "2026-03-06T04:09:59.311Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 1",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Route 1.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 1.mp3"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Vs Trainer",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "beb91ab3-d064-4ae0-9497-7a106cdc746d",
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Tough Guy)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "be458c64-6c49-42ba-848e-8beaea98bdef",
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Boy)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "dcfb1296-1053-43cb-9ecd-d0a6ce4e20a4",
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
   }
 ]

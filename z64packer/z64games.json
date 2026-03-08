@@ -2489,18 +2489,18 @@
     "series": "Monster Hunter Series"
   },
   {
-    "game": "Nier Automata"
+    "game": "Dragon Quest IV: Chapters of the Chosen",
+    "series": "Dragon Quest Series",
+    "logo": "https://www.realmofdarkness.net/dq/wp-content/img/ps/dq4/logos/dq4-05.png"
   },
   {
-    "game": "Dragon Quest 4",
-    "series": "Dragon Quest Series"
-  },
-  {
-    "game": "Dragon Quest 9",
-    "series": "Dragon Quest Series"
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "series": "Dragon Quest Series",
+    "logo": "https://static.wikia.nocookie.net/dragonquest/images/f/f4/DQIX_Logo.png"
   },
   {
     "game": "Mario Party DS",
-    "series": "Mario Party Series"
+    "series": "Mario Party Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/9189e075289f180149ff1107d6d48f78.png"
   }
 ]
