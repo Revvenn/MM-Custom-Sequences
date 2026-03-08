@@ -11,7 +11,7 @@
       "Fish"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "4",
@@ -36,7 +36,7 @@
       "Fish"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "4",
       "5",
@@ -60,7 +60,7 @@
       "Fish"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "4",
       "5",
@@ -71,5 +71,1486 @@
     "usesFormmask": false,
     "file": "Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes Invisible Moon.mmrs",
     "preview": "Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes Invisible Moon.mp3"
+  },
+  {
+    "game": "Mario & Luigi Superstar Saga",
+    "song": "Boss Theme",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7a6345dd-157c-4b18-987b-8dce14b2489e",
+    "file": "Mario & Luigi Superstar Saga/Boss Theme.mmrs"
+  },
+  {
+    "game": "Mario & Luigi Superstar Saga",
+    "song": "Popple Battle Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "925d0aed-1e00-4fc6-a903-123b18d6d740",
+    "file": "Mario & Luigi Superstar Saga/Popple Battle Theme.mmrs"
+  },
+  {
+    "game": "Mario & Luigi Superstar Saga",
+    "song": "Chucklehuck Woods",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7595e23d-9aec-47ee-9f20-079f67c2f15d",
+    "file": "Mario & Luigi Superstar Saga/Chucklehuck Woods.mmrs"
+  },
+  {
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "The Doll Maker of Bucuresti",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fec52a15-469c-4487-8fe5-a2697c668124",
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/The Doll Maker of Bucuresti.mmrs"
+  },
+  {
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Necrofantasia",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7f347a24-1da9-4f16-a448-5ecb85f7bb81",
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia.mmrs"
+  },
+  {
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Old Chateau",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "13B",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "14aeb506-9cb1-44e7-b662-9675cdd9fc81",
+    "file": "Pokémon Diamond, Pearl & Platinum/Old Chateau.mmrs"
+  },
+  {
+    "game": "Dragon Quest IV Chapters of the Chosen",
+    "song": "Gypsy Dance",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "28f02b8b-d949-442b-8282-a0ead09a82b9",
+    "file": "Dragon Quest IV Chapters of the Chosen/Gypsy Dance.mmrs"
+  },
+  {
+    "game": "Mario Party",
+    "song": "Wario's Battle Canyon",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "81f3e349-547f-436b-a479-fa975169315c",
+    "file": "Mario Party/Wario's Battle Canyon.mmrs"
+  },
+  {
+    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "song": "Pure Furies ~ Whereabouts of the Heart",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "0a0f345f-28a3-419d-9e75-f30053670073",
+    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart.mmrs"
+  },
+  {
+    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "song": "Faraway Voyage Of 380000 Kilometers",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "1246eeb6-2e8f-4c11-926e-34db50950793",
+    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Faraway Voyage Of 380000 Kilometers.mmrs"
+  },
+  {
+    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "song": "Reversed Wheel of Fortune",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "cad1dc82-57f2-4bfe-ba66-9ef0ec9a614b",
+    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Reversed Wheel of Fortune.mmrs"
+  },
+  {
+    "game": "Pokémon Snap",
+    "song": "Beach",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7c32d240-174e-43e9-be6b-1350a6895a8c",
+    "file": "Pokémon Snap/Beach.mmrs"
+  },
+  {
+    "game": "Phoenix Wright Ace Attorney",
+    "song": "Pursuit ~ Cornered",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8b80f588-e169-4363-801f-4582c6364576",
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered.mmrs"
+  },
+  {
+    "game": "Super Mario Sunshine",
+    "song": "Shadow Mario",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "069b4324-3742-4d04-bb8f-f65d8d1bee32",
+    "file": "Super Mario Sunshine/Shadow Mario.mmrs"
+  },
+  {
+    "game": "Castlevania",
+    "song": "Heart of Fire",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "6202f2e4-25df-4028-9cf4-0cb1bd055df8",
+    "file": "Castlevania/Heart of Fire.mmrs"
+  },
+  {
+    "game": "Castlevania",
+    "song": "Wicked Child",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "dde54391-ceb3-4100-8a1d-dafe0baca8b9",
+    "file": "Castlevania/Wicked Child.mmrs"
+  },
+  {
+    "game": "Breath of Fire II",
+    "song": "Boss Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "63d1f78e-e1d3-4ada-a4c6-0e4dfad6c156",
+    "file": "Breath of Fire II/Boss Theme.mmrs"
+  },
+  {
+    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "song": "Nuclear Fusion",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "85831090-30bd-4a8f-ba91-8e30c13ccd1f",
+    "file": "Touhou Chiireiden ~ Subterranean Animism/Nuclear Fusion.mmrs"
+  },
+  {
+    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "song": "Hartmann's Youkai Girl",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7b2fba3a-9ef8-40e8-8044-ebfadd08c72a",
+    "file": "Touhou Chiireiden ~ Subterranean Animism/Hartmann's Youkai Girl.mmrs"
+  },
+  {
+    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "song": "Last Remote ~ Koishi Komeiji's Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f6d99472-d8e1-4fc0-9409-c9d2277fe828",
+    "file": "Touhou Chiireiden ~ Subterranean Animism/Last Remote ~ Koishi Komeiji's Theme.mmrs"
+  },
+  {
+    "game": "Diablo",
+    "song": "Tristram Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ed21cc83-870f-461f-ada6-62e95021c8a8",
+    "file": "Diablo/Tristram Theme.mmrs"
+  },
+  {
+    "game": "Touhou Kishinjō ~ Double Dealing Character",
+    "song": "Primordial Beat ~ Pristine Beat",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8bcb946c-41df-41b4-8910-83b5cbf955b1",
+    "file": "Touhou Kishinjō ~ Double Dealing Character/Primordial Beat ~ Pristine Beat.mmrs"
+  },
+  {
+    "game": "Touhou Kishinjō ~ Double Dealing Character",
+    "song": "Little Princess",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fb6848f7-bcf4-4c1e-b581-05dcafc670bf",
+    "file": "Touhou Kishinjō ~ Double Dealing Character/Little Princess.mmrs"
+  },
+  {
+    "game": "Animal Crossing",
+    "song": "DJ K.K",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "52b2b734-5491-4553-bc57-31e095614a35",
+    "file": "Animal Crossing/DJ K.K.mmrs"
+  },
+  {
+    "game": "Touhou Fuujinroku ~ Mountain of Faith",
+    "song": "Nitori's Theme ~ Candid Friend",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "4d2e580a-b31d-4067-bd41-4032b36c65cd",
+    "file": "Touhou Fuujinroku ~ Mountain of Faith/Nitori's Theme ~ Candid Friend.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Ordnance Storage",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f5c37857-ccac-406a-a993-91f87494d293",
+    "file": "Banjo-Tooie/Ordnance Storage.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Collect Jiggy",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "96ce6b4e-4a2c-4896-90e5-a292c3a256da",
+    "file": "Banjo-Tooie/Collect Jiggy.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Hailfire Peak",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "c42a3799-bd39-48be-91ab-64ae8378168e",
+    "file": "Banjo-Tooie/Hailfire Peak.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Grunty Industries",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "8fd72ea2-f2fe-49e1-a4a5-1302cdc2126b",
+    "file": "Banjo-Tooie/Grunty Industries.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Wumba's Wigwam",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "c7359bdf-72c9-422c-9535-e408833d3a1b",
+    "file": "Banjo-Tooie/Wumba's Wigwam.mmrs"
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Cheato",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "e0be7377-d4f4-4958-8142-44144d4bda12",
+    "file": "Banjo-Tooie/Cheato.mmrs"
+  },
+  {
+    "game": "Hollow Knight",
+    "song": "Hornet",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7a144a22-d00d-4555-ac2a-8939bc4d265b",
+    "file": "Hollow Knight/Hornet.mmrs"
+  },
+  {
+    "game": "Hollow Knight",
+    "song": "Reflection",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "9168b6d5-f555-4a74-b258-37727a58e266",
+    "file": "Hollow Knight/Reflection.mmrs"
+  },
+  {
+    "game": "Hollow Knight",
+    "song": "Dirtmouth",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "db52a2c4-a224-4063-8c2a-17f818888b9a",
+    "file": "Hollow Knight/Dirtmouth.mmrs"
+  },
+  {
+    "game": "Age of Empires The Rise of Rome",
+    "song": "Tango Alpha Bravo",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "518bedd4-d8f5-4acb-af01-6e2cd61716ab",
+    "file": "Age of Empires The Rise of Rome/Tango Alpha Bravo.mmrs"
+  },
+  {
+    "game": "Super Smash Bros. Melee",
+    "song": "Hyrule Temple",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8c60ce0d-5abc-40ea-82e8-d4271c211647",
+    "file": "Super Smash Bros. Melee/Hyrule Temple.mmrs"
+  },
+  {
+    "game": "Doom II",
+    "song": "Into Sandy's City",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f4c2ff94-1aad-4255-94c6-ed54cdce413b",
+    "file": "Doom II/Into Sandy's City.mmrs"
+  },
+  {
+    "game": "Doom II",
+    "song": "Countdown to Death",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d3bbe2a1-9c1f-4b81-9b9e-4daee2c0b4e2",
+    "file": "Doom II/Countdown to Death.mmrs"
+  },
+  {
+    "game": "Doom II",
+    "song": "Running from Evil",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "e3b40261-931f-4a2d-b3a1-51b352be4409",
+    "file": "Doom II/Running from Evil.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Dance of the Deku King",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "cf4e4a57-bb9b-4904-a3fe-c4b2721221e2",
+    "file": "Ultimate Trial/Dance of the Deku King.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Hero Trial",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "03ced893-dfaa-4990-9052-4cc44ff1c343",
+    "file": "Ultimate Trial/Hero Trial.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Child Trial",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5f40e371-9e10-43a8-9263-14777e1b9b79",
+    "file": "Ultimate Trial/Child Trial.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Reward Room",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3be31c99-dd8c-499e-a657-36da179fbb78",
+    "file": "Ultimate Trial/Reward Room.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Catacombs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3bd63125-aff5-4024-88eb-453d55aa96ea",
+    "file": "Ultimate Trial/Catacombs.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Rest Stellar Chamber",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a8409c29-a91b-4598-bc8d-870c04084d08",
+    "file": "Ultimate Trial/Rest Stellar Chamber.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Hylia's Justiciar (Phase 1)",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8eac8af1-17c2-4948-b1fc-f0e7f6aa2a49",
+    "file": "Ultimate Trial/Hylia's Justiciar (Phase 1).mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Hylia's Justiciar (Phase 2)",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "04605a1a-1e8d-445a-9612-bc33d02e2969",
+    "file": "Ultimate Trial/Hylia's Justiciar (Phase 2).mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Grimstalker",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "410bcee2-6326-4c5e-b78c-5f9bb802c319",
+    "file": "Ultimate Trial/Grimstalker.mmrs"
+  },
+  {
+    "game": "Ultimate Trial",
+    "song": "Shiba's Stronghold",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "20211907-79a9-438a-b33d-442cccc5ad84",
+    "file": "Ultimate Trial/Shiba's Stronghold.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Main Title",
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "81fcc37b-a9e7-4b45-8255-378312ca2de2",
+    "file": "Banjo-Kazooie/Main Title.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Top of the Lair",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "49b824e7-ae2b-4f53-b343-0e626cf3ad0e",
+    "file": "Banjo-Kazooie/Top of the Lair.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Snacker Attack",
+    "type": "bgm",
+    "categories": [
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "641dc001-387f-4030-b679-59fc689a4039",
+    "file": "Banjo-Kazooie/Snacker Attack.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "771b0b86-7020-4fd4-b3e1-390b50ce59f7",
+    "file": "Banjo-Kazooie/Freezeezy Peak.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Clanker's Cavern",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "ff61797b-1edf-4923-abb5-3deb0bc2ff52",
+    "file": "Banjo-Kazooie/Clanker's Cavern.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Treasure Trove Cove",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "54cc59ba-856c-4ac9-8e4a-b6d0129ea170",
+    "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Rusty Bucket Bay",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "2bbdeaa1-04cc-4abb-8bbb-16ec8461b49f",
+    "file": "Banjo-Kazooie/Rusty Bucket Bay.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Mad Monster Mansion",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "30bce2a9-164b-4d5c-ba7b-0c40855bff69",
+    "file": "Banjo-Kazooie/Mad Monster Mansion.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Gobi's Valley",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "0e51cad8-0cc8-486a-a12c-7f19d54bb567",
+    "file": "Banjo-Kazooie/Gobi's Valley.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Spiral Mountain",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "uuid": "1738db52-9949-47cf-ab87-cc4d0a6cfe6a",
+    "file": "Banjo-Kazooie/Spiral Mountain.mmrs"
+  },
+  {
+    "game": "Banjo-Kazooie",
+    "song": "Lose Life",
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "737acf0a-c278-4507-ace6-b48bab715bf9",
+    "file": "Banjo-Kazooie/Lose Life.mmrs"
+  },
+  {
+    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "song": "Cinderella Cage ~ Kagome-Kagome",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "0a22b604-e878-4dc4-b310-946ba24e3a50",
+    "file": "Touhou Eiyashou ~ Imperishable Night/Cinderella Cage ~ Kagome-Kagome.mmrs"
+  },
+  {
+    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "song": "Flight of the Bamboo Cutter ~ Lunatic Princess",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "296509bf-9ec9-447d-8e0f-6130f8778cf6",
+    "file": "Touhou Eiyashou ~ Imperishable Night/Flight of the Bamboo Cutter ~ Lunatic Princess.mmrs"
+  },
+  {
+    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "song": "Gensokyo Millenium ~ History of the Moon",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "352e5ff6-e737-4d9e-9e77-8ea7635e0ae4",
+    "file": "Touhou Eiyashou ~ Imperishable Night/Gensokyo Millenium ~ History of the Moon.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda A Link to the Past",
+    "song": "Dark World",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ddf2cebd-c789-4f75-a1d6-fa85964ec431",
+    "file": "The Legend of Zelda A Link to the Past/Dark World.mmrs"
+  },
+  {
+    "game": "Suikoden II",
+    "song": "Gothic Neclord",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "840265d9-d2c5-47e2-b1ef-8d58bef9897f",
+    "file": "Suikoden II/Gothic Neclord.mmrs"
+  },
+  {
+    "game": "Dragon Ball Z The Legacy of Goku II",
+    "song": "Confrontation",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "308731fb-17c8-4726-9c06-544ec31af4d0",
+    "file": "Dragon Ball Z The Legacy of Goku II/Confrontation.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Vs Trainer",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "9406ca5b-9f8e-42ce-8a3e-39cca0926e4a",
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Team Rocket Hideout",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "c3c73208-9f76-42dc-9ff4-cfa70f638149",
+    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Tough Guy)",
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "638303bf-e3fc-4e58-88c4-345fba0160fa",
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Wild Pokémon",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "6c4d67ca-7782-4463-b980-ee1d6ac343ca",
+    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Vs Gym Leader",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "aa99c2af-5fb1-470a-8914-c25d03025f2b",
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 1",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "2b4394c5-f3d7-4efc-97eb-e08fa90030ee",
+    "file": "Pokémon Red, Blue & Yellow/Route 1.mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Girl)",
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "18144386-8d53-4d35-9b45-a9d3b612c57a",
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs"
+  },
+  {
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Boy)",
+    "type": "bgm",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "3b7e5988-3614-4a43-8edd-f86e69d85376",
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs"
+  },
+  {
+    "game": "WarioWare Touched!",
+    "song": "Ashley's Song",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "5c8bb9e2-c5be-4a92-b46d-caa8cbc75e9c",
+    "file": "WarioWare Touched!/Ashley's Song.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Link's Awakening (2019)",
+    "song": "Tal Tal Heights - Heroic",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "c611af9a-b800-404d-808f-c7521fca8e2e",
+    "file": "The Legend of Zelda Link's Awakening (2019)/Tal Tal Heights - Heroic.mmrs"
+  },
+  {
+    "game": "NieR Replicant",
+    "song": "The Ultimate Weapon",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "0b4f7cad-1ae0-411d-aba3-79dc6dddc620",
+    "file": "NieR Replicant/The Ultimate Weapon.mmrs"
+  },
+  {
+    "game": "NieR Replicant",
+    "song": "The Incomplete Stone",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "4f1180e5-d031-4762-ab6e-cf05ad099a80",
+    "file": "NieR Replicant/The Incomplete Stone.mmrs"
+  },
+  {
+    "game": "NieR Replicant",
+    "song": "Temple of Drifting Sands",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "10b83ce8-9335-40e3-b9fe-f9a6d6e0f253",
+    "file": "NieR Replicant/Temple of Drifting Sands.mmrs"
+  },
+  {
+    "game": "NieR Replicant",
+    "song": "Kaine",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "01c4d1a6-f67e-4755-9e45-b69bf16b57d6",
+    "file": "NieR Replicant/Kaine.mmrs"
+  },
+  {
+    "game": "NieR Replicant",
+    "song": "Song of the Ancients - Devola",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "fee9d500-cbcd-47f5-9440-28560443ced7",
+    "file": "NieR Replicant/Song of the Ancients - Devola.mmrs"
+  },
+  {
+    "game": "Monster Hunter 4 Ultimate",
+    "song": "Proof of a Hero",
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "169"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2576b05b-3371-4adf-a7a9-dda81c0d9aee",
+    "file": "Monster Hunter 4 Ultimate/Proof of a Hero.mmrs"
+  },
+  {
+    "game": "Among Us",
+    "song": "Dead Body Reported (Remix)",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "acba9b8a-547c-4aaa-bfe1-8f7921dec509",
+    "file": "Among Us/Dead Body Reported (Remix).mmrs"
+  },
+  {
+    "game": "Age of Empires",
+    "song": "Open",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "42508748-4662-40fb-9ec9-d2783f27d576",
+    "file": "Age of Empires/Open.mmrs"
+  },
+  {
+    "game": "Mario Party DS",
+    "song": "Bowser's Pinball Machine",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8548e439-a5f0-49a0-837b-92c63c1509a4",
+    "file": "Mario Party DS/Bowser's Pinball Machine.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Emil's Shop",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "41fe6147-3d7b-4f6b-b5ce-7381b57dbd05",
+    "file": "Nier Automata/Emil's Shop.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Copied City",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ec36bb28-c495-4e14-9828-e9b2b0fe109a",
+    "file": "Nier Automata/Copied City.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Sound of the End - Quiet",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "981ee2c0-3766-44f5-a2dc-59aab2ddc42e",
+    "file": "Nier Automata/Sound of the End - Quiet.mmrs"
+  },
+  {
+    "game": "Super Metroid",
+    "song": "Item Room",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "b1f3b596-e1a3-4182-a768-b9661cb53491",
+    "file": "Super Metroid/Item Room.mmrs"
+  },
+  {
+    "game": "Super Metroid",
+    "song": "Brinstar Overgrowth",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "5734708f-cfc9-4d63-96d7-19eeb1a7f800",
+    "file": "Super Metroid/Brinstar Overgrowth.mmrs"
+  },
+  {
+    "game": "Paper Mario",
+    "song": "Tubba Blubba Battle",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "4744426e-baed-464c-af62-cb5efefd2806",
+    "file": "Paper Mario/Tubba Blubba Battle.mmrs"
+  },
+  {
+    "game": "Paper Mario",
+    "song": "Goomba Road",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "bd33ce7b-f05c-49f4-b786-4c7721c8b2e5",
+    "file": "Paper Mario/Goomba Road.mmrs"
+  },
+  {
+    "game": "Duke Nukem 3D",
+    "song": "Stalker",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "acfbbc60-51ee-481b-a63e-10c938cbea81",
+    "file": "Duke Nukem 3D/Stalker.mmrs"
+  },
+  {
+    "game": "Sonic Adventure 2",
+    "song": "Pumpkin Hill",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "16418e0b-1b62-413c-973b-f99c90772275",
+    "file": "Sonic Adventure 2/Pumpkin Hill.mmrs"
+  },
+  {
+    "game": "Dragon Quest IX Sentinels of the Starry Skies",
+    "song": "Overworld",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "a3689f5e-685b-400c-8772-3de7ef455680",
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Overworld.mmrs"
+  },
+  {
+    "game": "Dragon Quest IX Sentinels of the Starry Skies",
+    "song": "Observatory",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "4893e239-e1af-4f3f-b2d6-2a53ff5cc930",
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Observatory.mmrs"
+  },
+  {
+    "game": "Dragon Quest IX Sentinels of the Starry Skies",
+    "song": "Alchemy Pot",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "e010744f-526b-4cfb-8899-638c853d0df3",
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Alchemy Pot.mmrs"
+  },
+  {
+    "game": "Dragon Quest IX Sentinels of the Starry Skies",
+    "song": "Title Screen",
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "2a968aae-72ea-4cff-9148-85db1b6f71f2",
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Title Screen.mmrs"
   }
 ]
