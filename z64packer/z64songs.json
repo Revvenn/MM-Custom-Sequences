@@ -2430,5 +2430,29 @@
     "usesFormmask": false,
     "file": "Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes Invisible Moon.mmrs",
     "preview": "Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes Invisible Moon.mp3"
+  },
+  {
+    "uuid": "05325fb6-bd7a-43d3-896d-0159086a9fed",
+    "creationDate": "2026-03-09T17:50:21.766Z",
+    "game": "Pokémon Snap",
+    "song": "Volcano",
+    "composers": [
+      "Ikuko Mimori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Snap/Volcano.mmrs",
+    "preview": "Pokémon Snap/Volcano.mp3"
   }
 ]
