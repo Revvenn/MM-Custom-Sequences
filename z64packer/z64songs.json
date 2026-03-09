@@ -2454,5 +2454,30 @@
     "uuid": "31b0eb34-6fa7-48b1-b081-939f2b4008fc",
     "file": "NieR Automata/Emil's Shop.mmrs",
     "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
+  },
+  {
+    "uuid": "11b865a0-5ade-45f8-afb9-0b6d59fc0611",
+    "creationDate": "2026-03-09T18:28:46.274Z",
+    "game": "Pokémon Stadium",
+    "song": "Game Demo",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "150",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/Game Demo.mmrs",
+    "preview": "Pokémon Stadium/Game Demo.mp3"
   }
 ]
