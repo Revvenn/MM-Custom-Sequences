@@ -1346,7 +1346,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1b0d2439-90bd-4560-a14a-16dab6498b66",
-    "file": "Nier Automata/Copied City.mmrs",
+    "file": "NieR Automata/Copied City.mmrs",
     "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
   },
   {
@@ -1368,8 +1368,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ede2b508-b8eb-4654-b964-c0b2c45961fb",
-    "file": "Nier Automata/Sound of the End - Quiet.mmrs",
-    "preview": "Nier Automata/Sound of the End - Quiet.mp3"
+    "file": "NieR Automata/Sound of the End - Quiet.mmrs",
+    "preview": "NieR Automata/Sound of the End - Quiet.mp3"
   },
   {
     "uuid": "d50138cb-c9c3-4532-a594-44ccb8f7f281",
@@ -1986,8 +1986,17 @@
     "preview": "Pokémon Snap/Beach.mp3"
   },
   {
-    "game": "Nier Automata",
+    "game": "NieR: Automata",
     "song": "Emil's Shop",
+    "composers": [
+      "Keiichi Okabe",
+      "Keigo Hoashi",
+      "Kuniyuki Takahashi",
+      "Kakeru Ishihama"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
     "type": "bgm",
     "categories": [
       "1",
@@ -2000,7 +2009,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "31b0eb34-6fa7-48b1-b081-939f2b4008fc",
-    "file": "Nier Automata/Emil's Shop.mmrs"
+    "file": "NieR Automata/Emil's Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
   },
   {
     "uuid": "b15479db-9837-4480-853b-4355813e77bc",
