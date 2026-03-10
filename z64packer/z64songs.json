@@ -3179,5 +3179,29 @@
     "usesFormmask": false,
     "file": "Deltarune/Card Castle.mmrs",
     "preview": "Deltarune/Card Castle.mp3"
+  },
+  {
+    "uuid": "8ab45f4b-55e3-4f0d-9381-2ad7231bd4a9",
+    "creationDate": "2026-03-10T02:19:50.484Z",
+    "game": "Deltarune",
+    "song": "My Castle Town",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/My Castle Town.mmrs",
+    "preview": "Deltarune/My Castle Town.mp3"
   }
 ]
