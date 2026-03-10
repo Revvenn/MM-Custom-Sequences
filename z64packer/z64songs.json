@@ -2733,5 +2733,381 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Skyward Sword/Koloktos.mmrs",
     "preview": "https://www.youtube.com/watch?v=Kxc49O-BZBw"
+  },
+  {
+    "uuid": "a132bdc8-398c-4059-9523-8f7dfd7a0288",
+    "creationDate": "2026-03-10T01:02:08.119Z",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
+    "song": "Colgera Battle",
+    "composers": [
+      "Manaka Kataoka",
+      "Maasa Miyoshi",
+      "Masato Ohashi",
+      "Tsukasa Usui"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Tears of the Kingdom/Colgera Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=9ZQvEx-de78"
+  },
+  {
+    "uuid": "b7557ce9-9917-460a-8461-1dbe0dd1378d",
+    "creationDate": "2026-03-10T01:07:26.426Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Boss Defeated",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Boss Defeated.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Boss Defeated.ogg"
+  },
+  {
+    "uuid": "b17d01c6-f98f-4a32-9246-5c3c5790ade1",
+    "creationDate": "2026-03-10T01:09:18.670Z",
+    "game": "Wario Land 2",
+    "song": "The Really Final Chapter",
+    "composers": [
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 2/The Really Final Chapter.mmrs",
+    "preview": "Wario Land 2/The Really Final Chapter.ogg"
+  },
+  {
+    "uuid": "d301d643-d6ad-4da4-af2e-bdc587b1ef39",
+    "creationDate": "2026-03-10T01:17:49.864Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Agniratha (Night)",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Agniratha (Night).mmrs",
+    "preview": "Xenoblade Chronicles/Agniratha (Night).mp3"
+  },
+  {
+    "uuid": "c4597bd5-aca9-4e56-b606-699406c7a4f1",
+    "creationDate": "2026-03-10T01:19:52.976Z",
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "song": "Lasaria Woodland",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mmrs",
+    "preview": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mp3"
+  },
+  {
+    "uuid": "a8af8e4c-b7d1-44f9-a70c-8c3404d11b6d",
+    "creationDate": "2026-03-10T01:22:45.638Z",
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "song": "Auresco, Royal Capital (Night)",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Auresco, Royal Capital (Night).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GZgYdNxB4Wc"
+  },
+  {
+    "uuid": "c09b632e-efa0-4383-9ccf-3815300ce7b2",
+    "creationDate": "2026-03-10T01:25:03.932Z",
+    "game": "Xenoblade Chronicles 3",
+    "song": "Erythia Sea",
+    "composers": [
+      "ACE (CHiCO)"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 3/Erythia Sea.mmrs",
+    "preview": "https://www.youtube.com/watch?v=JKWJhI4wmeg"
+  },
+  {
+    "uuid": "9542ff76-ab7c-4816-a489-569e03fc7387",
+    "creationDate": "2026-03-10T01:29:18.476Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Alcamoth, Imperial Capital",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Alcamoth, Imperial Capital.mmrs",
+    "preview": "Xenoblade Chronicles/Alcamoth, Imperial Capital.ogg"
+  },
+  {
+    "uuid": "2b9e66ed-c478-4fba-a0e7-f061a62f65a1",
+    "creationDate": "2026-03-10T01:32:50.872Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Satorl Marsh (Night)",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Satorl Marsh (Night).mmrs",
+    "preview": "Xenoblade Chronicles/Satorl Marsh (Night).ogg"
+  },
+  {
+    "uuid": "44247020-ff37-4549-a756-00a24978e129",
+    "creationDate": "2026-03-10T01:34:21.779Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Sword Valley",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Sword Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=FfT17HPB9e0"
+  },
+  {
+    "uuid": "a6051134-95bb-474b-8b38-1a6a62f8f5a4",
+    "creationDate": "2026-03-10T01:36:14.638Z",
+    "game": "Xenoblade Chronicles",
+    "song": "The End Lies Ahead",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/The End Lies Ahead.mmrs",
+    "preview": "Xenoblade Chronicles/The End Lies Ahead.ogg"
+  },
+  {
+    "uuid": "4b0eec79-6db1-416b-b51b-6850260f7d62",
+    "creationDate": "2026-03-10T01:37:19.518Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Valak Mountain (Night)",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "113",
+      "165"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Valak Mountain (Night).mmrs",
+    "preview": "https://www.youtube.com/watch?v=5HivHoUid08"
+  },
+  {
+    "uuid": "c8524827-d2b2-4a0d-9735-9fd216577eed",
+    "creationDate": "2026-03-10T01:38:58.096Z",
+    "game": "Xenogears",
+    "song": "One Who Bares Fang at God",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "5",
+      "6",
+      "16",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenogears/One Who Bares Fang at God.mmrs",
+    "preview": "https://www.youtube.com/watch?v=JPvCrbAB6BY"
+  },
+  {
+    "uuid": "ef38059e-3043-4a4a-8f4d-721cbdd38782",
+    "creationDate": "2026-03-10T01:39:48.428Z",
+    "game": "Xenogears",
+    "song": "The One Who is Torn Apart",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenogears/The One Who is Torn Apart.mmrs",
+    "preview": "Xenogears/The One Who is Torn Apart.mp3"
+  },
+  {
+    "uuid": "58961077-b678-4817-9c55-59cc5ba74ca5",
+    "creationDate": "2026-03-10T01:41:56.262Z",
+    "game": "Zeraphyr",
+    "song": "Spritely Woods",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zeraphyr/Spritely Woods.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HKCKtDI5Tmg"
   }
 ]
