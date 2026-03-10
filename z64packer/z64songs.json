@@ -2479,5 +2479,259 @@
     "usesFormmask": false,
     "file": "Pokémon Stadium/Game Demo.mmrs",
     "preview": "Pokémon Stadium/Game Demo.mp3"
+  },
+  {
+    "uuid": "8adb7ed6-94ec-4034-834a-dab34b3fc9fd",
+    "creationDate": "2026-03-10T00:41:15.181Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Lynna City (Jazz Arrangement)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Lynna City (Jazz Arrangement).mmrs",
+    "preview": "https://www.youtube.com/watch?v=JIW99zn6tg4"
+  },
+  {
+    "uuid": "6605db73-986f-413c-a292-f693e7bd6bd7",
+    "creationDate": "2026-03-10T00:42:44.814Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Moonlit Grotto",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Moonlit Grotto.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4caT5MrLBug"
+  },
+  {
+    "uuid": "9029ad89-5812-455c-8a58-53a7112d1e94",
+    "creationDate": "2026-03-10T00:43:43.398Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Nayru's Song",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4OGDIQYWUgo"
+  },
+  {
+    "uuid": "b925e4c0-0171-4ba2-8695-d89795a9b5d9",
+    "creationDate": "2026-03-10T00:45:21.405Z",
+    "game": "Octopath Traveler",
+    "song": "Settlement in the Red Bluffs",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Settlement in the Red Bluffs.mmrs",
+    "preview": "https://www.youtube.com/watch?v=8DPd2BKqfwA"
+  },
+  {
+    "uuid": "95e18652-9346-4931-a9ad-36013ba6f354",
+    "creationDate": "2026-03-10T00:47:04.062Z",
+    "game": "Octopath Traveler",
+    "song": "Orewell, Beneath the Crags",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Orewell, Beneath the Crags.mmrs",
+    "preview": "Octopath Traveler/Orewell, Beneath the Crags.mp3"
+  },
+  {
+    "uuid": "da3e06db-dfc3-4b68-8050-859fe31db761",
+    "creationDate": "2026-03-10T00:47:51.159Z",
+    "game": "Octopath Traveler",
+    "song": "River of Life",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/River of Life.mmrs",
+    "preview": "Octopath Traveler/River of Life.mp3"
+  },
+  {
+    "uuid": "45690abc-7a02-4418-9cba-d21df9e3ab3d",
+    "creationDate": "2026-03-10T00:48:46.154Z",
+    "game": "Octopath Traveler",
+    "song": "The Gate of Finis",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/The Gate of Finis.mmrs",
+    "preview": "Octopath Traveler/The Gate of Finis.mp3"
+  },
+  {
+    "uuid": "34fa5105-c02d-404b-8bfb-af63d9401ce8",
+    "creationDate": "2026-03-10T00:49:59.693Z",
+    "game": "Pokémon Colosseum",
+    "song": "Cipher Admin",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Colosseum/Cipher Admin.mmrs",
+    "preview": "https://www.youtube.com/watch?v=UKC1aSuAE-Y"
+  },
+  {
+    "uuid": "d2b5219b-8269-4068-b9bc-f43a23fe1e44",
+    "creationDate": "2026-03-10T00:52:35.477Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Ghirahim's Theme",
+    "composers": [
+      "Hajime Wakai",
+      "Shiho Fujii",
+      "Mahito Yokota",
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.ogg"
+  },
+  {
+    "uuid": "d562896b-24f1-44ef-b1bd-7fc4d7a1f5ee",
+    "creationDate": "2026-03-10T00:53:53.894Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Koloktos",
+    "composers": [
+      "Hajime Wakai",
+      "Takeshi Hama",
+      "Shiho Fujii",
+      "Mahito Yokota",
+      "Masato Mizuta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Koloktos.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Kxc49O-BZBw"
   }
 ]
