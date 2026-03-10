@@ -3008,5 +3008,30 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles/The End Lies Ahead.mmrs",
     "preview": "Xenoblade Chronicles/The End Lies Ahead.ogg"
+  },
+  {
+    "uuid": "4b0eec79-6db1-416b-b51b-6850260f7d62",
+    "creationDate": "2026-03-10T01:37:19.518Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Valak Mountain (Night)",
+    "composers": [
+      "ACE+"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "113",
+      "165"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Valak Mountain (Night).mmrs",
+    "preview": "https://www.youtube.com/watch?v=5HivHoUid08"
   }
 ]
