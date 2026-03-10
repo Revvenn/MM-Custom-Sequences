@@ -2506,5 +2506,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Oracle of Ages/Lynna City (Jazz Arrangement).mmrs",
     "preview": "https://www.youtube.com/watch?v=JIW99zn6tg4"
+  },
+  {
+    "uuid": "6605db73-986f-413c-a292-f693e7bd6bd7",
+    "creationDate": "2026-03-10T00:42:44.814Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Moonlit Grotto",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Moonlit Grotto.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4caT5MrLBug"
   }
 ]
