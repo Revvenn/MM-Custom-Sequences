@@ -3370,5 +3370,30 @@
     "usesFormmask": false,
     "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mmrs",
     "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mp3"
+  },
+  {
+    "uuid": "f8c3103c-1fbc-47ff-8a7a-3cbaa0152edd",
+    "creationDate": "2026-03-11T23:59:21.374Z",
+    "game": "Legend of Zelda: Feesh Mode",
+    "song": "Invasion",
+    "composers": [
+      "Fish_waffle64"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Legend of Zelda Feesh Mode/Invasion.mmrs",
+    "preview": "Legend of Zelda Feesh Mode/Invasion.mp3"
   }
 ]
