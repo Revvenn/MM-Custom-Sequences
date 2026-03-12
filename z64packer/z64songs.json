@@ -3475,5 +3475,29 @@
     "usesFormmask": false,
     "file": "EarthBound/Snowman.mmrs",
     "preview": "EarthBound/Snowman.mp3"
+  },
+  {
+    "uuid": "bd53359f-03f4-4241-876c-19b3b790ce1d",
+    "creationDate": "2026-03-12T00:59:57.850Z",
+    "game": "Fate-Extra",
+    "song": "Duel",
+    "composers": [
+      "Shinji Hosoe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fate-Extra/Duel.mmrs",
+    "preview": "Fate-Extra/Duel.mp3"
   }
 ]
