@@ -3423,5 +3423,391 @@
     "usesFormmask": false,
     "file": "Omori/By Your Side.mmrs",
     "preview": "Omori/By Your Side.mp3"
+  },
+  {
+    "uuid": "89e7e4da-5982-41f3-b049-db31ca53dc6b",
+    "creationDate": "2026-03-12T00:52:04.957Z",
+    "game": "EarthBound",
+    "song": "Snowman (Wave)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "13a",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Snowman (Wave).mmrs",
+    "preview": "EarthBound/Snowman (Wave).mp3"
+  },
+  {
+    "uuid": "d92aed36-5b7a-476c-9143-13c0af5fae32",
+    "creationDate": "2026-03-12T00:53:01.028Z",
+    "game": "EarthBound",
+    "song": "Snowman",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Snowman.mmrs",
+    "preview": "EarthBound/Snowman.mp3"
+  },
+  {
+    "uuid": "bd53359f-03f4-4241-876c-19b3b790ce1d",
+    "creationDate": "2026-03-12T00:59:57.850Z",
+    "game": "Fate-Extra",
+    "song": "Duel",
+    "composers": [
+      "Shinji Hosoe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fate-Extra/Duel.mmrs",
+    "preview": "Fate-Extra/Duel.mp3"
+  },
+  {
+    "uuid": "41136ca5-c7b7-409c-b7b2-34526d3f0b06",
+    "creationDate": "2026-03-12T01:00:38.988Z",
+    "game": "Fate/EXTRA",
+    "song": "Duel",
+    "composers": [
+      "Shinji Hosoe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "FateEXTRA/Duel.mmrs",
+    "preview": "FateEXTRA/Duel.mp3"
+  },
+  {
+    "uuid": "df648fd1-7005-44aa-8afa-55b7d1ef0e72",
+    "creationDate": "2026-03-12T01:04:02.878Z",
+    "game": "Halo 3",
+    "song": "Leonidas Returns",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Halo 3/Leonidas Returns.mmrs",
+    "preview": "Halo 3/Leonidas Returns.mp3"
+  },
+  {
+    "uuid": "df86dd34-79ec-462b-b369-4f8487617454",
+    "creationDate": "2026-03-12T01:05:19.150Z",
+    "game": "Halo 3: ODST",
+    "song": "No Stone Unturned",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Halo 3 ODST/No Stone Unturned.mmrs",
+    "preview": "Halo 3 ODST/No Stone Unturned.mp3"
+  },
+  {
+    "uuid": "fd891ea6-2396-4fce-96c5-1b45935c959d",
+    "creationDate": "2026-03-12T01:06:36.419Z",
+    "game": "Halo: Combat Evolved",
+    "song": "Brothers in Arms",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Halo Combat Evolved/Brothers in Arms.mmrs",
+    "preview": "Halo Combat Evolved/Brothers in Arms.mp3"
+  },
+  {
+    "uuid": "59a0d18a-529d-4926-accb-2b618d0eebee",
+    "creationDate": "2026-03-12T01:07:28.644Z",
+    "game": "Katamari Damacy",
+    "song": "Lonely Rolling Star",
+    "composers": [
+      "Yoshihito Yano"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Katamari Damacy/Lonely Rolling Star.mmrs",
+    "preview": "Katamari Damacy/Lonely Rolling Star.mp3"
+  },
+  {
+    "uuid": "adca5456-d160-4630-b3e2-6e2a2aec844f",
+    "creationDate": "2026-03-12T01:08:58.198Z",
+    "game": "Kirby Air Ride",
+    "song": "City Trial",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Air Ride/City Trial.mmrs",
+    "preview": "Kirby Air Ride/City Trial.mp3"
+  },
+  {
+    "uuid": "fb4782d0-9a51-49c9-8870-ffc20031cfae",
+    "creationDate": "2026-03-12T01:10:21.192Z",
+    "game": "Mario's Super Picross",
+    "song": "Wario Puzzle 1",
+    "composers": [
+      "Toshiyuki Ueno"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario's Super Picross/Wario Puzzle 1.mmrs",
+    "preview": "Mario's Super Picross/Wario Puzzle 1.mp3"
+  },
+  {
+    "uuid": "4e1c4975-bb0e-4cbe-885f-6e6149164723",
+    "creationDate": "2026-03-12T01:12:14.406Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Elegant Summer",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Elegant Summer.mmrs",
+    "preview": "Melty Blood Actress Again/Elegant Summer.mp3"
+  },
+  {
+    "uuid": "d219e948-7634-4250-bebe-759e0d228927",
+    "creationDate": "2026-03-12T01:13:31.344Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "GCV2005",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/GCV2005.mmrs",
+    "preview": "Melty Blood Actress Again/GCV2005.mp3"
+  },
+  {
+    "uuid": "da21ced4-a058-45d4-b34e-dd6a9132c7db",
+    "creationDate": "2026-03-12T01:14:16.157Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Modernism Street",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Modernism Street.mmrs",
+    "preview": "Melty Blood Actress Again/Modernism Street.mp3"
+  },
+  {
+    "uuid": "daededb6-2e53-4cc4-9bfa-3affece09bcb",
+    "creationDate": "2026-03-12T01:15:02.651Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Rhythmical Bustle",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Rhythmical Bustle.mmrs",
+    "preview": "Melty Blood Actress Again/Rhythmical Bustle.mp3"
+  },
+  {
+    "uuid": "966e9e43-9123-4f9d-99b1-d010c1725b32",
+    "creationDate": "2026-03-12T01:15:51.350Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "SAKURA-KOI-UTA",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/SAKURA-KOI-UTA.mmrs",
+    "preview": "Melty Blood Actress Again/SAKURA-KOI-UTA.mp3"
+  },
+  {
+    "uuid": "8a98964d-dd97-468f-993b-f1f2a2d2a878",
+    "creationDate": "2026-03-12T01:17:26.139Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Wonderful boy",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Wonderful boy.mmrs",
+    "preview": "Melty Blood Actress Again/Wonderful boy.mp3"
   }
 ]
