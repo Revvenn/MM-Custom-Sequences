@@ -3739,5 +3739,28 @@
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Modernism Street.mmrs",
     "preview": "Melty Blood Actress Again/Modernism Street.mp3"
+  },
+  {
+    "uuid": "daededb6-2e53-4cc4-9bfa-3affece09bcb",
+    "creationDate": "2026-03-12T01:15:02.651Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Rhythmical Bustle",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Rhythmical Bustle.mmrs",
+    "preview": "Melty Blood Actress Again/Rhythmical Bustle.mp3"
   }
 ]
