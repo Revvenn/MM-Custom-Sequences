@@ -4814,5 +4814,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Hyrule Castle.mmrs",
     "preview": "https://www.youtube.com/watch?v=ZcfdwfuxKHg"
+  },
+  {
+    "uuid": "cad1db12-c363-4c15-ae2f-181040bf50f1",
+    "creationDate": "2026-03-13T03:19:20.207Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Mini-game",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Mini-game.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Mini-game.mp3"
   }
 ]
