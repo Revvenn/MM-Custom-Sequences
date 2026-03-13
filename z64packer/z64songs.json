@@ -4299,5 +4299,27 @@
     "usesFormmask": false,
     "file": "Hyrule Warriors Age of Calamity/Growing Sorrow.mmrs",
     "preview": "Hyrule Warriors Age of Calamity/Growing Sorrow.mp3"
+  },
+  {
+    "uuid": "04f52c3a-1de4-425f-8a59-0e48c5454f91",
+    "creationDate": "2026-03-13T02:33:01.607Z",
+    "game": "EarthBound",
+    "song": "Pokey Means Business",
+    "composers": [
+      "Keiichi Suzuki and Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Pokey Means Business.mmrs",
+    "preview": "EarthBound/Pokey Means Business.mp3"
   }
 ]
