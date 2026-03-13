@@ -5291,5 +5291,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant A).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant A).mp3"
+  },
+  {
+    "uuid": "227b4d5a-f882-4924-b2f2-248aeaac9cf3",
+    "creationDate": "2026-03-13T04:17:26.050Z",
+    "game": "TY the Tasmanian Tiger 2: Bush Rescue",
+    "song": "Cog Get",
+    "composers": [
+      "George Stamatiadis"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "TY the Tasmanian Tiger 2 Bush Rescue/Cog Get.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
   }
 ]
