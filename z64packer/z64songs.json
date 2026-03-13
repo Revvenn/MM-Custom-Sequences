@@ -5313,5 +5313,27 @@
     "usesFormmask": false,
     "file": "TY the Tasmanian Tiger 2 Bush Rescue/Cog Get.mmrs",
     "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
+  },
+  {
+    "uuid": "2d5ab9c2-dab9-468c-93c1-0a287fdcd40e",
+    "creationDate": "2026-03-13T04:18:40.326Z",
+    "game": "TY the Tasmanian Tiger 2: Bush Rescue",
+    "song": "Mission Complete",
+    "composers": [
+      "George Stamatiadis"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "TY the Tasmanian Tiger 2 Bush Rescue/Mission Complete.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
   }
 ]
