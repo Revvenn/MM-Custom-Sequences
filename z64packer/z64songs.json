@@ -4248,5 +4248,28 @@
     "usesFormmask": false,
     "file": "Hyrule Warriors/Eclipse of the Moon.mmrs",
     "preview": "Hyrule Warriors/Eclipse of the Moon.mp3"
+  },
+  {
+    "uuid": "b93d8e1e-ca72-4403-ae12-1994ad940273",
+    "creationDate": "2026-03-13T02:27:44.336Z",
+    "game": "Minecraft",
+    "song": "Level Up (Player Ding)",
+    "composers": [
+      "Daniel Rosenfeld"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Minecraft/Level Up (Player Ding).mmrs",
+    "preview": "Minecraft/Level Up (Player Ding).ogg"
   }
 ]
