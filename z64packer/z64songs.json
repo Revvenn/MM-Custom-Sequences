@@ -5026,5 +5026,29 @@
     "usesFormmask": false,
     "file": "Luigi's Mansion/Bogmire Theme.mmrs",
     "preview": "Luigi's Mansion/Bogmire Theme.mp3"
+  },
+  {
+    "uuid": "99e08953-e677-4bc9-9efb-f90c7177e6e0",
+    "creationDate": "2026-03-13T03:42:56.009Z",
+    "game": "A Hat in Time",
+    "song": "Train Rush",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "A Hat in Time/Train Rush.mmrs",
+    "preview": "A Hat in Time/Train Rush.mp3"
   }
 ]
