@@ -4415,5 +4415,28 @@
     "usesFormmask": false,
     "file": "Metroid/Kraid's Lair.mmrs",
     "preview": "Metroid/Kraid's Lair.mp3"
+  },
+  {
+    "uuid": "ac6d384a-b79e-4c59-8fb8-b0b5e604b57d",
+    "creationDate": "2026-03-13T02:46:59.173Z",
+    "game": "Metroid",
+    "song": "Brinstar",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Brinstar.mmrs",
+    "preview": "Metroid/Brinstar.mp3"
   }
 ]
