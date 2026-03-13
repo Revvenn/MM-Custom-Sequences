@@ -4321,5 +4321,29 @@
     "usesFormmask": false,
     "file": "EarthBound/Pokey Means Business.mmrs",
     "preview": "EarthBound/Pokey Means Business.mp3"
+  },
+  {
+    "uuid": "d4ca2832-eebf-4900-85aa-276b3883370e",
+    "creationDate": "2026-03-13T02:35:18.468Z",
+    "game": "The Legend of Zelda: Feesh Mode",
+    "song": "High Noon",
+    "composers": [
+      "Fish_waffle64"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Feesh Mode/High Noon.mmrs",
+    "preview": "The Legend of Zelda Feesh Mode/High Noon.mp3"
   }
 ]
