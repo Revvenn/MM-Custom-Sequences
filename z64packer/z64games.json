@@ -2614,34 +2614,43 @@
     "series": "The Legend of Zelda Series"
   },
   {
-    "game": "Hyrule Warriors"
+    "game": "Hyrule Warriors",
+    "series": "Hyrule Warriors Series"
   },
   {
-    "game": "Hyrule Warriors: Age of Calamity"
+    "game": "Hyrule Warriors: Age of Calamity",
+    "series": "Hyrule Warriors Series"
   },
   {
-    "game": "Metroid"
+    "game": "Metroid",
+    "series": "Metroid Series"
   },
   {
-    "game": "Paper Mario: The Origami King"
+    "game": "Paper Mario: The Origami King",
+    "series": "Paper Mario Series"
   },
   {
-    "game": "Pokémon HeartGold & SoulSilver"
+    "game": "Pokémon HeartGold & SoulSilver",
+    "series": "Pokémon Series"
   },
   {
     "game": "A Hat in Time"
   },
   {
-    "game": "The Legend of Zelda: A Link Between Worlds"
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "series": "The Legend of Zelda Series"
   },
   {
-    "game": "New Super Mario Bros. Wii"
+    "game": "New Super Mario Bros. Wii",
+    "series": "Super Mario Series"
   },
   {
-    "game": "Pokémon Mystery Dungeon"
+    "game": "Pokémon Mystery Dungeon",
+    "series": "Pokémon Series"
   },
   {
-    "game": "Tetris"
+    "game": "Tetris",
+    "series": "Tetris Series"
   },
   {
     "game": "TY the Tasmanian Tiger 2: Bush Rescue"
