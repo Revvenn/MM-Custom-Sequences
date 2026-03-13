@@ -5097,5 +5097,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mmrs",
     "preview": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mp3"
+  },
+  {
+    "uuid": "dbf2acd7-e474-430b-9269-b2ab52469c52",
+    "creationDate": "2026-03-13T03:58:17.577Z",
+    "game": "New Super Mario Bros. Wii",
+    "song": "Volcano",
+    "composers": [
+      "Shiho Fujii and Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "New Super Mario Bros. Wii/Volcano.mmrs",
+    "preview": "New Super Mario Bros. Wii/Volcano.mp3"
   }
 ]
