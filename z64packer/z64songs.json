@@ -4628,5 +4628,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Fortune TellerShop.mmrs",
     "preview": "https://www.youtube.com/watch?v=g0sOJtPVQRU"
+  },
+  {
+    "uuid": "ed33fb14-cd7d-4e0a-9735-06eb05bca245",
+    "creationDate": "2026-03-13T03:12:46.706Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Boss Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Boss Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=40JsCLuRdPg"
   }
 ]
