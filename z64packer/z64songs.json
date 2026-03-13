@@ -5406,5 +5406,27 @@
     "usesFormmask": false,
     "file": "Pokémon XD Gale of Darkness/Miror B. Theme (Variant A).mmrs",
     "preview": "Pokémon XD Gale of Darkness/Miror B. Theme (Variant A).mp3"
+  },
+  {
+    "uuid": "ef337287-5396-448b-8543-14d8476bdba6",
+    "creationDate": "2026-03-13T19:38:24.452Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "New Wave Bossa Nova",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mp3"
   }
 ]
