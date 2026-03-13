@@ -5190,5 +5190,30 @@
     "usesFormmask": false,
     "file": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mmrs",
     "preview": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mp3"
+  },
+  {
+    "uuid": "f3c78144-cec1-49eb-a0c8-cb124c838e38",
+    "creationDate": "2026-03-13T04:08:48.170Z",
+    "game": "Sonic & Knuckles",
+    "song": "Flying Battery Zone (Variant A)",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles/Flying Battery Zone (Variant A).mmrs",
+    "preview": "Sonic & Knuckles/Flying Battery Zone (Variant A).mp3"
   }
 ]
