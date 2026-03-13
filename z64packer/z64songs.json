@@ -4675,5 +4675,29 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Forest.mmrs",
     "preview": "https://www.youtube.com/watch?v=_Br7rReOXGM"
+  },
+  {
+    "uuid": "ab38cdfb-e9fe-4705-9104-eaf75c844d44",
+    "creationDate": "2026-03-13T03:14:20.827Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Dark World (Variant B)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mp3"
   }
 ]
