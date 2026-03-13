@@ -4054,5 +4054,30 @@
     "usesFormmask": false,
     "file": "Uru Ages Beyond Myst/Convergence.mmrs",
     "preview": "Uru Ages Beyond Myst/Convergence.mp3"
+  },
+  {
+    "uuid": "03fb5739-b284-4805-8980-df259255fecc",
+    "creationDate": "2026-03-13T02:06:14.415Z",
+    "game": "StarTropics",
+    "song": "Dungeon",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "StarTropics/Dungeon.mmrs",
+    "preview": "StarTropics/Dungeon.mp3"
   }
 ]
