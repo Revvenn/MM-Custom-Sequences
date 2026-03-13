@@ -4883,5 +4883,30 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Ganon's Castle.mp3"
+  },
+  {
+    "uuid": "78ea6309-05a5-41d1-9ee2-eb3a582161d7",
+    "creationDate": "2026-03-13T03:31:57.127Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Zinger Boss",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.ogg"
   }
 ]
