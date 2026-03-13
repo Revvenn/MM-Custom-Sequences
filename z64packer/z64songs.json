@@ -4345,5 +4345,121 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Feesh Mode/High Noon.mmrs",
     "preview": "The Legend of Zelda Feesh Mode/High Noon.mp3"
+  },
+  {
+    "uuid": "b36ac604-211f-4c71-aa67-7e9699516c3a",
+    "creationDate": "2026-03-13T02:40:25.644Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Emperor Ing",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Emperor Ing.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Emperor Ing.ogg"
+  },
+  {
+    "uuid": "fdc9b22b-45cb-4777-bb2b-93bbd4e1a04a",
+    "creationDate": "2026-03-13T02:45:41.131Z",
+    "game": "Metroid",
+    "song": "Item Get",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Item Get.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
+  },
+  {
+    "uuid": "11bf0304-3091-4816-81b7-44e81b5c1c8d",
+    "creationDate": "2026-03-13T02:46:16.611Z",
+    "game": "Metroid",
+    "song": "Kraid's Lair",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Kraid's Lair.mmrs",
+    "preview": "Metroid/Kraid's Lair.mp3"
+  },
+  {
+    "uuid": "ac6d384a-b79e-4c59-8fb8-b0b5e604b57d",
+    "creationDate": "2026-03-13T02:46:59.173Z",
+    "game": "Metroid",
+    "song": "Brinstar",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid/Brinstar.mmrs",
+    "preview": "Metroid/Brinstar.mp3"
+  },
+  {
+    "uuid": "bc4794f6-7d7a-4419-aeed-7b9b977c53aa",
+    "creationDate": "2026-03-13T02:48:21.662Z",
+    "game": "Metroid Prime",
+    "song": "Menu",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime/Menu.mmrs",
+    "preview": "Metroid Prime/Menu.mp3"
   }
 ]
