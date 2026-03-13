@@ -5002,5 +5002,29 @@
     "usesFormmask": false,
     "file": "Pokémon HeartGold & SoulSilver/Champion Battle.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Champion Battle.mp3"
+  },
+  {
+    "uuid": "52452139-9e9e-4553-bd39-49c0fcdfbfe9",
+    "creationDate": "2026-03-13T03:39:27.070Z",
+    "game": "Luigi's Mansion",
+    "song": "Bogmire Theme",
+    "composers": [
+      "Kazumi Totaka and Shinobu Tanaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Luigi's Mansion/Bogmire Theme.mmrs",
+    "preview": "Luigi's Mansion/Bogmire Theme.mp3"
   }
 ]
