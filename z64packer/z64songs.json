@@ -4746,5 +4746,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Ganon.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Ganon.mp3"
+  },
+  {
+    "uuid": "5ddaf10e-ea83-4657-b852-e2042213407c",
+    "creationDate": "2026-03-13T03:16:24.685Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Sanctuary",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Sanctuary.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Sanctuary.mp3"
   }
 ]
