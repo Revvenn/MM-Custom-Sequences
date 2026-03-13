@@ -4438,5 +4438,28 @@
     "usesFormmask": false,
     "file": "Metroid/Brinstar.mmrs",
     "preview": "Metroid/Brinstar.mp3"
+  },
+  {
+    "uuid": "bc4794f6-7d7a-4419-aeed-7b9b977c53aa",
+    "creationDate": "2026-03-13T02:48:21.662Z",
+    "game": "Metroid Prime",
+    "song": "Menu",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime/Menu.mmrs",
+    "preview": "Metroid Prime/Menu.mp3"
   }
 ]
