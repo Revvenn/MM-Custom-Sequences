@@ -6071,5 +6071,28 @@
     "usesFormmask": false,
     "file": "Donkey Kong 64/Gloomy Galleon Lobby.mmrs",
     "preview": "Donkey Kong 64/Gloomy Galleon Lobby.ogg"
+  },
+  {
+    "uuid": "0d38efb1-d221-456c-8ee4-64f10618fb87",
+    "creationDate": "2026-03-14T01:25:14.474Z",
+    "game": "Cave Story",
+    "song": "Gestation",
+    "composers": [
+      "Daisuke Amaya"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "13b"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Gestation.mmrs",
+    "preview": "Cave Story/Gestation.ogg"
   }
 ]
