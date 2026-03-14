@@ -6169,5 +6169,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda The Wind Waker/Wind Temple.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Wind Temple.ogg"
+  },
+  {
+    "uuid": "a72c39fd-c3dc-4dea-b6f3-7b2ba801fb39",
+    "creationDate": "2026-03-14T01:31:28.896Z",
+    "game": "Banjo-Tooie",
+    "song": "Hall of the Zombie King",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Hall of the Zombie King.mmrs",
+    "preview": "Banjo-Tooie/Hall of the Zombie King.ogg"
   }
 ]
