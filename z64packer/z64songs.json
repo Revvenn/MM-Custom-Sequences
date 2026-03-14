@@ -5762,5 +5762,30 @@
     "usesFormmask": false,
     "file": "Dark Souls III/Secret Betrayal.mmrs",
     "preview": "Dark Souls III/Secret Betrayal.ogg"
+  },
+  {
+    "uuid": "c2d50ddd-1b75-4270-af1e-edd80a16e40d",
+    "creationDate": "2026-03-14T00:43:03.914Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Level 5 Catfish's Maw",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "and Kozue Ishikawa"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Link's Awakening/Level 5 Catfish's Maw.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Level 5 Catfish's Maw.ogg"
   }
 ]
