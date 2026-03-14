@@ -5636,5 +5636,28 @@
     "usesFormmask": false,
     "file": "Rayman/Harmony.mmrs",
     "preview": "Rayman/Harmony.ogg"
+  },
+  {
+    "uuid": "9f6e1e54-3a2f-4936-86af-bac2429bc340",
+    "creationDate": "2026-03-14T00:31:28.999Z",
+    "game": "Animal Crossing",
+    "song": "Working for Tom Nook",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/Working for Tom Nook.mmrs",
+    "preview": "Animal Crossing/Working for Tom Nook.ogg"
   }
 ]
