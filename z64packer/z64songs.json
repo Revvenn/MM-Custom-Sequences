@@ -5979,5 +5979,28 @@
     "usesFormmask": false,
     "file": "Dark Cloud/Divine Beast Cave.mmrs",
     "preview": "Dark Cloud/Divine Beast Cave.ogg"
+  },
+  {
+    "uuid": "e19e6e1e-00d1-4c75-af1c-408ba5bbdcf1",
+    "creationDate": "2026-03-14T01:19:26.060Z",
+    "game": "Resident Evil 4",
+    "song": "Save Theme",
+    "composers": [
+      "Misao Senbongi and Shusaku Uchiyama"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Resident Evil 4/Save Theme.mmrs",
+    "preview": "Resident Evil 4/Save Theme.ogg"
   }
 ]
