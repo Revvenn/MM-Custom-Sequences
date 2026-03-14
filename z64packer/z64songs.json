@@ -5889,5 +5889,27 @@
     "usesFormmask": false,
     "file": "Okami/Shinshuu Plains 1.mmrs",
     "preview": "Okami/Shinshuu Plains 1.ogg"
+  },
+  {
+    "uuid": "4c788e21-acb2-4d96-85ce-b305fc7604be",
+    "creationDate": "2026-03-14T01:11:34.773Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Kanto Gym Leader Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Kanto Gym Leader Battle.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Kanto Gym Leader Battle.ogg"
   }
 ]
