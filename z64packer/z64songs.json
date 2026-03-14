@@ -5589,5 +5589,28 @@
     "usesFormmask": false,
     "file": "Undertale/Premonition.mmrs",
     "preview": "Undertale/Premonition.ogg"
+  },
+  {
+    "uuid": "b158262c-c087-4615-a308-1d4b3645bd8b",
+    "creationDate": "2026-03-14T00:28:50.138Z",
+    "game": "Dark Cloud",
+    "song": "Queens",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Cloud/Queens.mmrs",
+    "preview": "Dark Cloud/Queens.ogg"
   }
 ]
