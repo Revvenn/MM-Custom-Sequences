@@ -5864,5 +5864,30 @@
     "usesFormmask": false,
     "file": "Okami/Cursed Shinshuu Plains.mmrs",
     "preview": "Okami/Cursed Shinshuu Plains.ogg"
+  },
+  {
+    "uuid": "38c90fb0-793f-49dc-9e3c-bac8be17ca6e",
+    "creationDate": "2026-03-14T01:08:18.362Z",
+    "game": "Okami",
+    "song": "Shinshuu Plains 1",
+    "composers": [
+      "Masami Ueda",
+      "Hiroshi Yamaguchi",
+      "Rei Kondoh",
+      "and Akari Kaida"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Okami/Shinshuu Plains 1.mmrs",
+    "preview": "Okami/Shinshuu Plains 1.ogg"
   }
 ]
