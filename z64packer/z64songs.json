@@ -6142,5 +6142,32 @@
     "usesFormmask": false,
     "file": "Demon's Souls/Maiden Astraea.mmrs",
     "preview": "Demon's Souls/Maiden Astraea.ogg"
+  },
+  {
+    "uuid": "cf08ffc3-b45a-4dc1-8650-7131c98b3bbf",
+    "creationDate": "2026-03-14T01:29:00.124Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind Temple",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "and Koji Kondo"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind Temple.ogg"
   }
 ]
