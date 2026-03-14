@@ -6048,5 +6048,28 @@
     "usesFormmask": false,
     "file": "Donkey Kong 64/Hideout Helm (Offline).mmrs",
     "preview": "Donkey Kong 64/Hideout Helm (Offline).ogg"
+  },
+  {
+    "uuid": "d8a0ee45-0579-45cf-99dc-1b4bd3e1d482",
+    "creationDate": "2026-03-14T01:22:56.111Z",
+    "game": "Donkey Kong 64",
+    "song": "Gloomy Galleon Lobby",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Gloomy Galleon Lobby.mmrs",
+    "preview": "Donkey Kong 64/Gloomy Galleon Lobby.ogg"
   }
 ]
