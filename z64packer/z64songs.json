@@ -5566,5 +5566,28 @@
     "usesFormmask": false,
     "file": "Banjo-Tooie/Lord Woo Fak Fak.mmrs",
     "preview": "Banjo-Tooie/Lord Woo Fak Fak.ogg"
+  },
+  {
+    "uuid": "4374ff18-6a7a-49fd-8c4b-bca2b90c8854",
+    "creationDate": "2026-03-14T00:27:36.802Z",
+    "game": "Undertale",
+    "song": "Premonition",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Undertale/Premonition.mmrs",
+    "preview": "Undertale/Premonition.ogg"
   }
 ]
