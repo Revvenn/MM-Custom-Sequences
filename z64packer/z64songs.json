@@ -6244,5 +6244,27 @@
     "usesFormmask": false,
     "file": "Mega Man 10/Solarman Stage.mmrs",
     "preview": "Mega Man 10/Solarman Stage.ogg"
+  },
+  {
+    "uuid": "38c080e5-f150-4165-85ae-7a6e950da132",
+    "creationDate": "2026-03-14T01:35:34.846Z",
+    "game": "Castle Crashers",
+    "song": "World Map",
+    "composers": [
+      "Christian Kjeldsen"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castle Crashers/World Map.mmrs",
+    "preview": "Castle Crashers/World Map.ogg"
   }
 ]
