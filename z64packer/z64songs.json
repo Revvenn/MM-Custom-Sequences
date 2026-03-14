@@ -5837,5 +5837,32 @@
     "usesFormmask": false,
     "file": "Okami/Ryoshima Coast.mmrs",
     "preview": "Okami/Ryoshima Coast.ogg"
+  },
+  {
+    "uuid": "0a6b91fc-0878-4319-8c3e-1c872019c782",
+    "creationDate": "2026-03-14T01:07:33.437Z",
+    "game": "Okami",
+    "song": "Cursed Shinshuu Plains",
+    "composers": [
+      "Masami Ueda",
+      "Hiroshi Yamaguchi",
+      "Rei Kondoh",
+      "and Akari Kaida"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Okami/Cursed Shinshuu Plains.mmrs",
+    "preview": "Okami/Cursed Shinshuu Plains.ogg"
   }
 ]
